@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    border-color: #354159;
     border-width: 3px;
 }
 
@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #354159;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -57,7 +57,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #354159;
 }
 
 .bg-dark {
@@ -70,7 +70,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
@@ -390,9 +390,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    border-color: #354159;
     color: #fff;
-    background-color: #f05f40;
+    background-color: #354159;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
