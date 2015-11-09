@@ -79,7 +79,18 @@ aside {
 .no-padding {
     padding: 0;
 }
-
+#portfolio {
+    background-image: url(../img/wood.jpeg);
+    background-size: cover;
+    height: 50%;
+}
+.woodtext {
+    color: white;
+    padding-top: 10rem;
+}
+.leo {
+    color:white;
+}
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
